@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0131-palindrome-partitioning) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
