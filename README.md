@@ -19,4 +19,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
