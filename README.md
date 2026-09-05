@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0052-n-queens-ii) |
 | [0131-palindrome-partitioning](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0131-palindrome-partitioning) |
 ## Linked List
 |  |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3904-smallest-stable-index-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
