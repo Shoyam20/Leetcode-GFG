@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0025-reverse-nodes-in-k-group](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0231-power-of-two) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0052-n-queens-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
