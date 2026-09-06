@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -112,5 +113,6 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0029-divide-two-integers) |
+| [0191-number-of-1-bits](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
