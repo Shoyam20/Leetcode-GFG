@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0136-single-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3903-smallest-stable-index-i) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2220-minimum-bit-flips-to-convert-number) |
