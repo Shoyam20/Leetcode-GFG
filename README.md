@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0131-palindrome-partitioning) |
+| [0940-distinct-subsequences-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0940-distinct-subsequences-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0131-palindrome-partitioning) |
+| [0940-distinct-subsequences-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0940-distinct-subsequences-ii) |
 ## Backtracking
 |  |
 | ------- |
