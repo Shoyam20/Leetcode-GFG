@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
@@ -129,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0260-single-number-iii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0260-single-number-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
