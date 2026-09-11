@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0206-reverse-linked-list](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0234-palindrome-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0160-intersection-of-two-linked-lists) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0260-single-number-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1441-build-an-array-with-stack-operations) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3903-smallest-stable-index-i) |
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0020-valid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
