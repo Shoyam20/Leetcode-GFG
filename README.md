@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0131-palindrome-partitioning) |
 | [0940-distinct-subsequences-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Backtracking
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0148-sort-list) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Merge Sort
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0503-next-greater-element-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1441-build-an-array-with-stack-operations) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -184,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0503-next-greater-element-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
