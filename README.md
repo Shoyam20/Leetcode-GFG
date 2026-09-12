@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0232-implement-queue-using-stacks](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0503-next-greater-element-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1441-build-an-array-with-stack-operations) |
 ## Divide and Conquer
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0503-next-greater-element-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1441-build-an-array-with-stack-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3875-construct-uniform-parity-array-i) |
@@ -181,4 +183,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
