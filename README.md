@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0507-perfect-number) |
+| [0836-rectangle-overlap](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0836-rectangle-overlap) |
 | [1486-xor-operation-in-an-array](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1486-xor-operation-in-an-array) |
 | [3870-count-commas-in-range](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3871-count-commas-in-range-ii) |
@@ -205,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0835-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
