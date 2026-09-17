@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0131-palindrome-partitioning) |
 | [0940-distinct-subsequences-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0940-distinct-subsequences-ii) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0940-distinct-subsequences-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Backtracking
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
 |  |
@@ -235,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Memoization
+|  |
+| ------- |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
