@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0131-palindrome-partitioning) |
+| [0402-remove-k-digits](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0402-remove-k-digits) |
 | [0940-distinct-subsequences-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0735-asteroid-collision) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0907-sum-of-subarray-minimums) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0402-remove-k-digits) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
