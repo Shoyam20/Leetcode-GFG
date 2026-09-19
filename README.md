@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1486-xor-operation-in-an-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3870-count-commas-in-range](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3870-count-commas-in-range) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Greedy
 |  |
 | ------- |
