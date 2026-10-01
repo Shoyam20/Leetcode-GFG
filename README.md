@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0036-valid-sudoku) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0142-linked-list-cycle-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0085-maximal-rectangle) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0036-valid-sudoku) |
 | [0085-maximal-rectangle](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0835-image-overlap) |
 ## Geometry
