@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0138-copy-list-with-random-pointer](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0203-remove-linked-list-elements) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0138-copy-list-with-random-pointer](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0496-next-greater-element-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0232-implement-queue-using-stacks) |
@@ -303,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0901-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
