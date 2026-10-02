@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0402-remove-k-digits) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0115-distinct-subsequences) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0022-generate-parentheses) |
 | [0052-n-queens-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0052-n-queens-ii) |
 | [0131-palindrome-partitioning](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0131-palindrome-partitioning) |
 ## Linked List
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0022-generate-parentheses) |
 ## Enumeration
 |  |
 | ------- |
