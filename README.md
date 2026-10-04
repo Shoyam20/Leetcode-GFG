@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0131-palindrome-partitioning) |
+| [0678-valid-parenthesis-string](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0907-sum-of-subarray-minimums) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 ## Enumeration
 |  |
 | ------- |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2448-minimum-cost-to-make-array-equal) |
