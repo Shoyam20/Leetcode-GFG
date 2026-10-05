@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0907-sum-of-subarray-minimums) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1441-build-an-array-with-stack-operations) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0856-score-of-parentheses) |
 ## Enumeration
 |  |
 | ------- |
