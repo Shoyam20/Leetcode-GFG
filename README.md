@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0301-remove-invalid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0856-score-of-parentheses) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0022-generate-parentheses) |
 | [0052-n-queens-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0052-n-queens-ii) |
 | [0131-palindrome-partitioning](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0301-remove-invalid-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -326,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0146-lru-cache) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
