@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2187-minimum-time-to-complete-trips](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2187-minimum-time-to-complete-trips) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3875-construct-uniform-parity-array-i) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
