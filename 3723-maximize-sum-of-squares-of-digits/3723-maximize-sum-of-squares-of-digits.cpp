@@ -2,18 +2,17 @@ class Solution {
 public:
     string maxSumOfSquares(int num, int sum) {
         if(9*1ll*num < sum)return "";
-        string n="";
-        int x=0;
-        while(num--){
-            if(sum>9){
-                n+=to_string(9);
-                sum-=9;
-            }
-            else{
-                n+=to_string(sum);
-                sum=0;
-            }
+        int nines=sum/9;
+        int remain = sum%9;
+
+        string result(nines,'9');
+
+        if(remain>0){
+            result.push_back(remain+'0');
         }
-        return n;
+
+
+        result.append(num-result.length(),'0');
+        return result;
     }
 };
