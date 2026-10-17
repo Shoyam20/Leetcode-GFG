@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Merge Sort
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3876-construct-uniform-parity-array-ii) |
