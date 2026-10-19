@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0148-sort-list](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0148-sort-list) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1441-build-an-array-with-stack-operations](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1441-build-an-array-with-stack-operations) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2104-sum-of-subarray-ranges) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2187-minimum-time-to-complete-trips) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2187-minimum-time-to-complete-trips) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2448-minimum-cost-to-make-array-equal) |
