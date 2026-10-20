@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3886-sum-of-sortable-integers) |
 ## Merge Sort
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3904-smallest-stable-index-ii) |
 ## Math
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3871-count-commas-in-range-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3886-sum-of-sortable-integers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3886-sum-of-sortable-integers) |
 ## Monotonic Stack
 |  |
 | ------- |
