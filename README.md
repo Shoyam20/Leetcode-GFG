@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Geometry
 |  |
 | ------- |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
