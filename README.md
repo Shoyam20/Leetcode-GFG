@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0496-next-greater-element-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2747-count-zero-request-servers](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2747-count-zero-request-servers](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2747-count-zero-request-servers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2187-minimum-time-to-complete-trips](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2187-minimum-time-to-complete-trips) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2747-count-zero-request-servers](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0239-sliding-window-maximum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2747-count-zero-request-servers](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2747-count-zero-request-servers) |
 ## Memoization
 |  |
 | ------- |
