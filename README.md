@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0907-sum-of-subarray-minimums](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0931-minimum-falling-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1441-build-an-array-with-stack-operations) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0835-image-overlap](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0931-minimum-falling-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Indexed Tree
 |  |
@@ -433,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
@@ -451,4 +456,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
