@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1441-build-an-array-with-stack-operations](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1441-build-an-array-with-stack-operations) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2104-sum-of-subarray-ranges) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0239-sliding-window-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0901-online-stock-span](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2104-sum-of-subarray-ranges) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -388,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0239-sliding-window-maximum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shoyam20/Leetcode-GFG/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2747-count-zero-request-servers](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Memoization
 |  |
 | ------- |
@@ -410,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shoyam20/Leetcode-GFG/tree/master/0239-sliding-window-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Data Stream
 |  |
 | ------- |
@@ -436,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Shoyam20/Leetcode-GFG/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Shoyam20/Leetcode-GFG/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
